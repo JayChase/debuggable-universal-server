@@ -17,4 +17,4 @@ npm run build:client-and-server-bundles && npm run compile:server
 
 ## debugging
 
-Open folder in VS Code and press **F5**.
+Open folder in VS Code and press **f5**.
